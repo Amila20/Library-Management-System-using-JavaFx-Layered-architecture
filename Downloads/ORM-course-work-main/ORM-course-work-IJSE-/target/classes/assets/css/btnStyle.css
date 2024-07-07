@@ -1,0 +1,32 @@
+.button{
+        -fx-background-color:#6433d8;
+}
+
+.button:hover{
+    -fx-background-color:#472B8A;
+}
+
+.button:pressed{
+    -fx-background-color:#192022;
+}
+
+.button:focused{
+    -fx-background-color:#192022;
+}
+
+.text-field:focused{
+    -fx-border-color:#6433d8 ;
+}
+
+.table-view .column-header,
+.table-view .column-header-background.filler{
+    -fx-background-color : white;
+}
+
+.table-view .column-header .label{
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-alignment: left;
+}
+
+
